@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\trasua\trasua\bin\Debug\trasua.exe.config
+C:\Users\Asus\source\repos\trasua\trasua\bin\Debug\trasua.exe
+C:\Users\Asus\source\repos\trasua\trasua\bin\Debug\trasua.pdb
+C:\Users\Asus\source\repos\trasua\trasua\obj\Debug\trasua.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\trasua\trasua\obj\Debug\trasua.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\trasua\trasua\obj\Debug\trasua.Form1.resources
+C:\Users\Asus\source\repos\trasua\trasua\obj\Debug\trasua.Properties.Resources.resources
+C:\Users\Asus\source\repos\trasua\trasua\obj\Debug\trasua.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\trasua\trasua\obj\Debug\trasua.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\trasua\trasua\obj\Debug\trasua.exe
+C:\Users\Asus\source\repos\trasua\trasua\obj\Debug\trasua.pdb

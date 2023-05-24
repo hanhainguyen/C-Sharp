@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\tkud giai pt\tkud giai pt\bin\Debug\tkud giai pt.exe.config
+C:\Users\admin\source\repos\tkud giai pt\tkud giai pt\bin\Debug\tkud giai pt.exe
+C:\Users\admin\source\repos\tkud giai pt\tkud giai pt\bin\Debug\tkud giai pt.pdb
+C:\Users\admin\source\repos\tkud giai pt\tkud giai pt\obj\Debug\tkud giai pt.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\tkud giai pt\tkud giai pt\obj\Debug\tkud giai pt.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\tkud giai pt\tkud giai pt\obj\Debug\tkud_giai_pt.Form1.resources
+C:\Users\admin\source\repos\tkud giai pt\tkud giai pt\obj\Debug\tkud_giai_pt.Properties.Resources.resources
+C:\Users\admin\source\repos\tkud giai pt\tkud giai pt\obj\Debug\tkud giai pt.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\tkud giai pt\tkud giai pt\obj\Debug\tkud giai pt.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\tkud giai pt\tkud giai pt\obj\Debug\tkud giai pt.exe
+C:\Users\admin\source\repos\tkud giai pt\tkud giai pt\obj\Debug\tkud giai pt.pdb
