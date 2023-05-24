@@ -1,0 +1,44 @@
+C:\Users\admin\source\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\bin\Debug\hoa don mua hang trong sthi.exe.config
+C:\Users\admin\source\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\bin\Debug\hoa don mua hang trong sthi.exe
+C:\Users\admin\source\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\bin\Debug\hoa don mua hang trong sthi.pdb
+C:\Users\admin\source\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa don mua hang trong sthi.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa don mua hang trong sthi.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa_don_mua_hang_trong_sthi.Form1.resources
+C:\Users\admin\source\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa_don_mua_hang_trong_sthi.Properties.Resources.resources
+C:\Users\admin\source\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa don mua hang trong sthi.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa don mua hang trong sthi.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa don mua hang trong sthi.exe
+C:\Users\admin\source\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa don mua hang trong sthi.pdb
+C:\Users\admin\Desktop\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\bin\Debug\hoa don mua hang trong sthi.exe.config
+C:\Users\admin\Desktop\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\bin\Debug\hoa don mua hang trong sthi.exe
+C:\Users\admin\Desktop\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\bin\Debug\hoa don mua hang trong sthi.pdb
+C:\Users\admin\Desktop\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa don mua hang trong sthi.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa don mua hang trong sthi.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa_don_mua_hang_trong_sthi.Form1.resources
+C:\Users\admin\Desktop\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa_don_mua_hang_trong_sthi.Properties.Resources.resources
+C:\Users\admin\Desktop\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa don mua hang trong sthi.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa don mua hang trong sthi.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa don mua hang trong sthi.exe
+C:\Users\admin\Desktop\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa don mua hang trong sthi.pdb
+E:\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\bin\Debug\hoa don mua hang trong sthi.exe.config
+E:\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\bin\Debug\hoa don mua hang trong sthi.exe
+E:\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\bin\Debug\hoa don mua hang trong sthi.pdb
+E:\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa don mua hang trong sthi.csproj.AssemblyReference.cache
+E:\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa don mua hang trong sthi.csproj.SuggestedBindingRedirects.cache
+E:\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa_don_mua_hang_trong_sthi.Form1.resources
+E:\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa_don_mua_hang_trong_sthi.Properties.Resources.resources
+E:\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa don mua hang trong sthi.csproj.GenerateResource.cache
+E:\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa don mua hang trong sthi.csproj.CoreCompileInputs.cache
+E:\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa don mua hang trong sthi.exe
+E:\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa don mua hang trong sthi.pdb
+D:\nguyen\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\bin\Debug\hoa don mua hang trong sthi.exe.config
+D:\nguyen\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\bin\Debug\hoa don mua hang trong sthi.exe
+D:\nguyen\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\bin\Debug\hoa don mua hang trong sthi.pdb
+D:\nguyen\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa don mua hang trong sthi.csproj.AssemblyReference.cache
+D:\nguyen\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa don mua hang trong sthi.csproj.SuggestedBindingRedirects.cache
+D:\nguyen\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa_don_mua_hang_trong_sthi.Form1.resources
+D:\nguyen\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa_don_mua_hang_trong_sthi.Properties.Resources.resources
+D:\nguyen\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa don mua hang trong sthi.csproj.GenerateResource.cache
+D:\nguyen\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa don mua hang trong sthi.csproj.CoreCompileInputs.cache
+D:\nguyen\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa don mua hang trong sthi.exe
+D:\nguyen\repos\hoa don mua hang trong sthi\hoa don mua hang trong sthi\obj\Debug\hoa don mua hang trong sthi.pdb
