@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\onthi4\onthi4\bin\Debug\onthi4.exe.config
+C:\Users\Asus\source\repos\onthi4\onthi4\bin\Debug\onthi4.exe
+C:\Users\Asus\source\repos\onthi4\onthi4\bin\Debug\onthi4.pdb
+C:\Users\Asus\source\repos\onthi4\onthi4\obj\Debug\onthi4.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\onthi4\onthi4\obj\Debug\onthi4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\onthi4\onthi4\obj\Debug\onthi4.Form1.resources
+C:\Users\Asus\source\repos\onthi4\onthi4\obj\Debug\onthi4.Properties.Resources.resources
+C:\Users\Asus\source\repos\onthi4\onthi4\obj\Debug\onthi4.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\onthi4\onthi4\obj\Debug\onthi4.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\onthi4\onthi4\obj\Debug\onthi4.exe
+C:\Users\Asus\source\repos\onthi4\onthi4\obj\Debug\onthi4.pdb
