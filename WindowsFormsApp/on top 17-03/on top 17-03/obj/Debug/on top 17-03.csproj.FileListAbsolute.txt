@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\on top 17-03\on top 17-03\bin\Debug\on top 17-03.exe.config
+C:\Users\admin\source\repos\on top 17-03\on top 17-03\bin\Debug\on top 17-03.exe
+C:\Users\admin\source\repos\on top 17-03\on top 17-03\bin\Debug\on top 17-03.pdb
+C:\Users\admin\source\repos\on top 17-03\on top 17-03\obj\Debug\on top 17-03.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\on top 17-03\on top 17-03\obj\Debug\on top 17-03.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\on top 17-03\on top 17-03\obj\Debug\on_top_17_03.Form1.resources
+C:\Users\admin\source\repos\on top 17-03\on top 17-03\obj\Debug\on_top_17_03.Properties.Resources.resources
+C:\Users\admin\source\repos\on top 17-03\on top 17-03\obj\Debug\on top 17-03.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\on top 17-03\on top 17-03\obj\Debug\on top 17-03.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\on top 17-03\on top 17-03\obj\Debug\on top 17-03.exe
+C:\Users\admin\source\repos\on top 17-03\on top 17-03\obj\Debug\on top 17-03.pdb
