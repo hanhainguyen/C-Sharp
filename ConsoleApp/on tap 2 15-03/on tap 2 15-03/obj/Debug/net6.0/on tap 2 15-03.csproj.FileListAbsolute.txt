@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\on tap 2 15-03\on tap 2 15-03\bin\Debug\net6.0\on tap 2 15-03.exe
+C:\Users\admin\source\repos\on tap 2 15-03\on tap 2 15-03\bin\Debug\net6.0\on tap 2 15-03.deps.json
+C:\Users\admin\source\repos\on tap 2 15-03\on tap 2 15-03\bin\Debug\net6.0\on tap 2 15-03.runtimeconfig.json
+C:\Users\admin\source\repos\on tap 2 15-03\on tap 2 15-03\bin\Debug\net6.0\on tap 2 15-03.dll
+C:\Users\admin\source\repos\on tap 2 15-03\on tap 2 15-03\bin\Debug\net6.0\ref\on tap 2 15-03.dll
+C:\Users\admin\source\repos\on tap 2 15-03\on tap 2 15-03\bin\Debug\net6.0\on tap 2 15-03.pdb
+C:\Users\admin\source\repos\on tap 2 15-03\on tap 2 15-03\obj\Debug\net6.0\on tap 2 15-03.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\on tap 2 15-03\on tap 2 15-03\obj\Debug\net6.0\on tap 2 15-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\on tap 2 15-03\on tap 2 15-03\obj\Debug\net6.0\on tap 2 15-03.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\on tap 2 15-03\on tap 2 15-03\obj\Debug\net6.0\on tap 2 15-03.AssemblyInfo.cs
+C:\Users\admin\source\repos\on tap 2 15-03\on tap 2 15-03\obj\Debug\net6.0\on tap 2 15-03.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\on tap 2 15-03\on tap 2 15-03\obj\Debug\net6.0\on tap 2 15-03.dll
+C:\Users\admin\source\repos\on tap 2 15-03\on tap 2 15-03\obj\Debug\net6.0\ref\on tap 2 15-03.dll
+C:\Users\admin\source\repos\on tap 2 15-03\on tap 2 15-03\obj\Debug\net6.0\on tap 2 15-03.pdb
+C:\Users\admin\source\repos\on tap 2 15-03\on tap 2 15-03\obj\Debug\net6.0\on tap 2 15-03.genruntimeconfig.cache

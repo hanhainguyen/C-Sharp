@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\lopsinhvien\lopsinhvien\obj\Debug\net6.0\lopsinhvien.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\lopsinhvien\lopsinhvien\obj\Debug\net6.0\lopsinhvien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\lopsinhvien\lopsinhvien\obj\Debug\net6.0\lopsinhvien.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\lopsinhvien\lopsinhvien\obj\Debug\net6.0\lopsinhvien.AssemblyInfo.cs
+C:\Users\admin\source\repos\lopsinhvien\lopsinhvien\obj\Debug\net6.0\lopsinhvien.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\lopsinhvien\lopsinhvien\bin\Debug\net6.0\lopsinhvien.exe
+C:\Users\admin\source\repos\lopsinhvien\lopsinhvien\bin\Debug\net6.0\lopsinhvien.deps.json
+C:\Users\admin\source\repos\lopsinhvien\lopsinhvien\bin\Debug\net6.0\lopsinhvien.runtimeconfig.json
+C:\Users\admin\source\repos\lopsinhvien\lopsinhvien\bin\Debug\net6.0\lopsinhvien.dll
+C:\Users\admin\source\repos\lopsinhvien\lopsinhvien\bin\Debug\net6.0\ref\lopsinhvien.dll
+C:\Users\admin\source\repos\lopsinhvien\lopsinhvien\bin\Debug\net6.0\lopsinhvien.pdb
+C:\Users\admin\source\repos\lopsinhvien\lopsinhvien\obj\Debug\net6.0\lopsinhvien.dll
+C:\Users\admin\source\repos\lopsinhvien\lopsinhvien\obj\Debug\net6.0\ref\lopsinhvien.dll
+C:\Users\admin\source\repos\lopsinhvien\lopsinhvien\obj\Debug\net6.0\lopsinhvien.pdb
+C:\Users\admin\source\repos\lopsinhvien\lopsinhvien\obj\Debug\net6.0\lopsinhvien.genruntimeconfig.cache
